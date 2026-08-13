@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VprSearch", "VprSearch.csproj", "{2C106003-93A8-CA7C-3987-035F20BBC395}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C106003-93A8-CA7C-3987-035F20BBC395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C106003-93A8-CA7C-3987-035F20BBC395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C106003-93A8-CA7C-3987-035F20BBC395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C106003-93A8-CA7C-3987-035F20BBC395}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6469CC8E-3CE7-4C61-A34D-F71BD5A4A3D9}
+	EndGlobalSection
+EndGlobal

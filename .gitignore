@@ -1,0 +1,39 @@
+# === Model weights / ONNX exports (bring your own) ===
+model/
+*.onnx
+*.onnx_data
+
+# === Native libraries (bring your own faiss build) ===
+dll/
+libs/
+*.dll
+*.so
+
+# === FAISS index files (build these yourself, not shipped here) ===
+*.index
+dino_temp/
+database/
+
+# === Data (query images, reference gallery, metadata) ===
+TestData/
+test_images/
+result/
+output/
+logs/
+debug.log
+
+# === .NET ===
+bin/
+obj/
+*.user
+.vs/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# === OS ===
+.DS_Store
+Thumbs.db
